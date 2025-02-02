@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import List from './components/List/List';
+const bandsWashington = require("./data/blue.json");
+const bandsLongBeach = require("./data/yellow.json");
+const bandsOrlando = require("./data/red.json");
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <List bands={bandsWashington} color="#79b8f0"></List>
+      <List bands={bandsLongBeach} color="#eed47d"></List>
+      <List bands={bandsOrlando} color="#eaa9a5"></List>
     </div>
   );
 }
