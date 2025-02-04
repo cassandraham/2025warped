@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/2025warped/static/css/main.55a9c046.css",
-    "main.js": "/2025warped/static/js/main.b3c63f74.js",
+    "main.js": "/2025warped/static/js/main.67ce801d.js",
     "static/media/Growly Grin.ttf": "/2025warped/static/media/Growly Grin.0ff780cffa27a701bbb7.ttf",
     "index.html": "/2025warped/index.html",
     "main.55a9c046.css.map": "/2025warped/static/css/main.55a9c046.css.map",
-    "main.b3c63f74.js.map": "/2025warped/static/js/main.b3c63f74.js.map"
+    "main.67ce801d.js.map": "/2025warped/static/js/main.67ce801d.js.map"
   },
   "entrypoints": [
     "static/css/main.55a9c046.css",
-    "static/js/main.b3c63f74.js"
+    "static/js/main.67ce801d.js"
   ]
 }
