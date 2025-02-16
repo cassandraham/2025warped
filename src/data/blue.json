@@ -20,6 +20,7 @@
         "width": 197
     },
     {
+        "name": "Avril Lavigne",
         "width": 215
     },
     {
@@ -27,6 +28,7 @@
         "width": 374
     },
     {
+        "name": "Big Ass Truck",
         "width": 220
     },
     {
@@ -41,9 +43,11 @@
         "width": 240
     },
     {
+        "name": "carpool",
         "width": 139
     },
     {
+        "name": "Cartel",
         "width": 113
     },
     {
@@ -86,6 +90,7 @@
         "width": 303
     },
     {
+        "name": "Games We Play",
         "width": 234
     },
     {
@@ -118,9 +123,11 @@
         "width": 301
     },
     {
+        "name": "Ice Nine Kills",
         "width": 215
     },
     {
+        "name": "Jakobs Castle",
         "width": 228
     },
     {
@@ -133,7 +140,8 @@
         "width": 233
     },
     {
-        "width": 127
+        "width": 127,
+        "name": "LetLive."
     },
     {
         "width": 147
@@ -145,7 +153,8 @@
         "width": 238
     },
     {
-        "width": 279
+        "width": 279,
+        "name": "Memphis May Fire"
     },
     {
         "width": 209
@@ -191,7 +200,8 @@
         "width": 240
     },
     {
-        "width": 145
+        "width": 145,
+        "name": "Ringpop!"
     },
     {
         "width": 324,
@@ -238,9 +248,11 @@
         "width": 342
     },
     {
-        "width": 238
+        "width": 238,
+        "name": "Sophie Powers"
     },
     {
+        "name": "Spray Allen",
         "width": 193
     },
     {
@@ -257,7 +269,8 @@
         "width": 100
     },
     {
-        "width": 173
+        "width": 173,
+        "name": "Sweet Pill"
     },
     {
         "width": 110
@@ -295,7 +308,8 @@
         "width": 310
     },
     {
-        "width": 207
+        "width": 207,
+        "name": "We The Kings"
     },
     {
         "width": 340,
