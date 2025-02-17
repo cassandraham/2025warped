@@ -9,12 +9,12 @@ function List({ bands, color, predictions, setPredictions }) {
         setShowPrev(prev => !prev);
     }
     const handleInputChange = (e) => {
-        console.log(e)
+
         const newPredcitions = { ...predictions };
         newPredcitions[e.target.dataset.cell] = e.currentTarget.value;
         setPredictions(newPredcitions);
     }
-    console.log(predictions)
+
     return (
         <div className="list" style={{ backgroundColor: color }}>
             <div className="checkbox-container"><label>Show previously guessed<input type="checkbox" checked={showPrev} onChange={toggle}></input></label></div>
