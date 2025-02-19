@@ -112,7 +112,8 @@
         "width": 286
     },
     {
-        "width": 324
+        "width": 324,
+        "name": "Hidden In Plain View"
     },
     {
         "width": 160
@@ -155,11 +156,11 @@
         "width": 238
     },
     {
-        "width": 279,
-        "name": "Memphis May Fire"
+        "width": 279
     },
     {
-        "width": 209
+        "width": 209,
+        "name": "Millionaire$"
     },
     {
         "name": "Miss May I",
