@@ -32,3 +32,10 @@
 .gap input:focus {
     outline-color: #abff97;
 }
+
+.firefox .gap,
+.firefox .gap input,
+.safari .gap,
+.safari .gap input {
+    font-size: 39.5px;
+}
